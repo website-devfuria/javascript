@@ -17,7 +17,7 @@ Pressuponho que você saiba [o que é JavaScript](/javascript/o-que-e-javascript
 Iniciando em JavaScript no lado do servidor (Node.js)
 ---
 
-Você precisa ter o [Node.js](/javascript/node.js/) instalado, se estiver no Linux veja esta matéria ["Instalando o Node.js"](/linux/instalando-nodejs/).
+Você precisa ter o [Node.js](/javascript/nodejs/) instalado, se estiver no Linux veja esta matéria ["Instalando o Node.js"](/linux/instalando-nodejs/).
 
 No terminal, digite `node -v` para saber qual a versão instalada.
 

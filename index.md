@@ -11,7 +11,7 @@ Você pode executar JavaScript do lado do cliente (__front end__) em um navegado
 [Firefox](https://www.mozilla.org/pt-BR/firefox/new/) ou ao [Google Chrome](https://www.google.com/chrome/).
 
 Também poderá executá-lo do lado do servidor (__back end__) em linha de comando através do
-[Node.js](/node.js/).
+[Node.js](/nodejs/).
 
 
 
