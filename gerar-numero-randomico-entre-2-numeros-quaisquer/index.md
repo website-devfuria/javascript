@@ -49,7 +49,7 @@ Math.floor(Math.random() * (5 + 1) + 3);
 
 O código acima irá gerar 3, 4, 5, 6, 7 e 8
 
-Conseguimos um limite mínimo (3), mas estoramos o limite máximo (5). Podemos resolver isso subtraindo o valor mínimo (3)
+Conseguimos um limite mínimo (3), mas estouramos o limite máximo (5). Podemos resolver isso subtraindo o valor mínimo (3)
 do valor máximo (5).
 
 ```javascript
@@ -77,3 +77,9 @@ function getRandomInt(min, max) {
 
 - - -
 Fonte: [MDN - Math.random()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+
+Veja também:
+
++ https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range
++ https://stackoverflow.com/questions/8904707/javascript-random-number-between-15-and-225-increments-of-30
++ https://coderwall.com/p/ro4mda/js-random-number-range-increment
