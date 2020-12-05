@@ -32,7 +32,7 @@ Detenha-se um pouco nele, olhe o exemplo até que você tenha "compilado" ele me
 
 ## Evoluindo com o filter
 
-Agora vamos partir do exemplo acima e tentar procurar algumas variãções.
+Agora vamos partir do exemplo acima e tentar procurar algumas variações.
 
 A primeira alteração que eu fiz foi colocar o array em uma variável.
 
@@ -49,9 +49,8 @@ console.log(filtered);
 // [12, 13, 14]
 ```
 
-Agora vamos passar nossa função `isBigEnough` diretamento para `filter`, sem precisar definir a função.
-
-Bem no estilo callback.
+Agora vamos passar nossa função `isBigEnough` diretamento para `filter`, sem precisar definir a função
+(bem no estilo callback).
 
 ```javascript
 let number = [12, 5, 8, 13, 14];
@@ -96,7 +95,7 @@ console.log(filterItems());
 // [12, 13, 14]
 ```
 
-Percebo que não preciso da variável `filtered`. Faco o `return` diretamente.
+Percebo que não preciso da variável `filtered`. Faço o `return` diretamente.
 
 ```javascript
 let number = [12, 5, 8, 13, 14];
@@ -128,7 +127,7 @@ console.log(filterItems(number));
 
 ```
 
-Bem massa ficou nussa função, o que você achou até aqui ?
+Bem massa ficou nossa função, o que você achou até aqui ?
 
 Mas agora nos daremos um passo para trás.
 
