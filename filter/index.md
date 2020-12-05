@@ -27,7 +27,7 @@ console.log(filtered);
 
 ```
 
-Detenha-se um pouco nele, olhe o exemplo até que você tem "compilado" ele mentalmente.
+Detenha-se um pouco nele, olhe o exemplo até que você tenha "compilado" ele mentalmente.
 
 
 ## Evoluindo com o filter
