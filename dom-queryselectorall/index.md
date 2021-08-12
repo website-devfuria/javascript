@@ -47,7 +47,7 @@ var elem = document.querySelectorAll('span.fatal.error ');
 
 A funcao `querySelectorAll()` recebe um argumento de string contendo um seletor CSS e retorna um objeto
 [NodeList](/javascript/dom-nodelist/) representando os elementos do documento que correspondem ao seletor. Se nenhum
-elemento coincide, a função retorna um objeto NodeList vazio. Se a string do seletor é invpalida, `querySelectorAll()`
+elemento coincide, a função retorna um objeto NodeList vazio. Se a string do seletor é inválida, `querySelectorAll()`
 lançará um exceção.
 
 O método `querySelectorAll()` faz parte tanto do objeto Document como do objeto Element.
